@@ -67,5 +67,3 @@ wordcloud
 
 - Kaggle Notebook original:  
   [Global Deep Dive: AI ML Data Science Salaries](https://www.kaggle.com/code/msjahid/global-deep-dive-ai-ml-data-science-salaries)
-
-- Archivo utilizado: `salaries.csv`
