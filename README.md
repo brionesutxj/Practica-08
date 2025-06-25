@@ -22,18 +22,18 @@ El notebook está dividido en los siguientes pasos:
    Se importan y configuran las librerías necesarias para el análisis.
 
 2. **Carga del Dataset**  
-   Se carga el conjunto de datos [`salaries.csv`] que contiene información salarial global en IA y ciencia de datos.
+   Se carga el conjunto de datos que contiene información salarial global en IA y ciencia de datos.
 
-3. **Resumen de Atributos**  
+4. **Resumen de Atributos**  
    Se examinan los tipos de datos, valores únicos y estructura general.
 
-4. **Manejo de Valores Perdidos**  
+5. **Manejo de Valores Perdidos**  
    Se identifican y visualizan los valores faltantes con un mapa de calor.
 
-5. **Manejo de Valores Duplicados**  
+6. **Manejo de Valores Duplicados**  
    Se detectan y eliminan registros duplicados.
 
-6. **Resumen Estadístico de los Datos**  
+7. **Resumen Estadístico de los Datos**  
    Se calculan medidas estadísticas avanzadas de todas las variables numéricas.
 
 ---
